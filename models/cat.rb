@@ -1,3 +1,4 @@
-class Cat < ActiveRecord::Base
-  belongs_to :owner
+class Cat < ActiveRe
+  cord::Base
+  belongs_to :owners
 end
